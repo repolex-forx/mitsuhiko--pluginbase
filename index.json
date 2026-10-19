@@ -1,0 +1,11 @@
+{
+  "org": "mitsuhiko",
+  "repo": "pluginbase",
+  "versions": [
+    {
+      "commit": "2a5db4c0bba11dc6dff0110c298e3ab9d8521532",
+      "tag": "v1.0.1",
+      "parsed_at": "2026-10-19T13:27:31.519711+00:00"
+    }
+  ]
+}
